@@ -9,3 +9,4 @@ Cross-Platform: Runs smoothly on both iOS and Android devices.
 Customizable Watchlist: Users can select their favorite cryptocurrencies to track.
 
 caffe bazar https://cafebazaar.ir/app/com.example.ramzina
+![IMG_20240808_202522 1](https://github.com/user-attachments/assets/a44baf16-cd8b-4815-b11a-e1b79ef94e97)
